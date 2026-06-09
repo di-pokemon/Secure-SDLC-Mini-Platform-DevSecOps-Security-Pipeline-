@@ -1,0 +1,10 @@
+{
+  "risk_score": 45,
+  "risk_level": "MEDIUM",
+  "breakdown": {
+    "sast_issues": 3,
+    "dependency_issues": 2,
+    "secret_issues": 1
+  },
+  "recommendation": "Fix highest severity issues first"
+}
